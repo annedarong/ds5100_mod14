@@ -13,4 +13,4 @@ setup(name='Demo',
       author='Anneda A. Rong',
       author_email='aar2dk@virginia.edu',
       license='MIT',
-      packages=['hi_there_world'])
+      packages=['hello_world'])
